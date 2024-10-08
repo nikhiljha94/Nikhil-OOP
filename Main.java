@@ -18,7 +18,7 @@ public class Main {
         return -1;
     }
 
-    // This program implements the Binary search algorithm
+    /////// This program implements the Binary search algorithm
     public static int binarySearch(int[] arr, int target) {
 
         // Initialize the left and right pointers to the first and last indices of the array
